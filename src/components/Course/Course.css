@@ -1,0 +1,19 @@
+.course {
+  box-shadow: 0px 10px 13px -4px rgba(35, 35, 95, 0.1882352941);
+  display: grid;
+  border-radius: 18px;
+}
+.course .image-wrraper {
+  display: grid;
+  justify-content: center;
+  padding: 9px 10px;
+  border-radius: 18px 18px 0 0;
+}
+.course img {
+  height: 144px;
+  width: auto;
+}
+.course h2 {
+  font-size: 18px;
+  padding: 12px 18px 18px;
+}/*# sourceMappingURL=Course.css.map */

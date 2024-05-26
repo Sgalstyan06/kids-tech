@@ -1,0 +1,8 @@
+@import "../../Global.scss";
+.error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $failed-color;
+  }
+  

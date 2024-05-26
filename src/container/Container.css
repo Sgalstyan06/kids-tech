@@ -1,0 +1,7 @@
+main {
+  display: grid;
+  grid-template-columns: 264px 1fr;
+  -moz-column-gap: 24px;
+       column-gap: 24px;
+  align-items: start;
+}/*# sourceMappingURL=Container.css.map */

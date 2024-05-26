@@ -1,0 +1,26 @@
+$primary-color: #39414B;
+$secondary-color: #FFFFFF;
+$success-color: #5FBF77;
+$failed-color: #dc3545;
+$primary-border-color: #CFCFE4;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1;
+    color: $primary-color;
+    padding: 24px;
+  }
+
+  li {
+    list-style: none;
+  }
+
+

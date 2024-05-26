@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1;
+  color: #39414B;
+  padding: 24px;
+}
+body li {
+  list-style: none;
+}
+
+.error-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #dc3545;
+}/*# sourceMappingURL=ErrorBoundary.css.map */

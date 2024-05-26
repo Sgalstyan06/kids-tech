@@ -1,0 +1,13 @@
+@import '../../Global.scss';
+
+ul {
+    border: 1px solid $primary-border-color;
+    border-radius: 18px;
+    padding: 12px;
+
+    li{
+        border-radius: 12px;
+        padding: 12px;
+        cursor: pointer;
+    }
+}

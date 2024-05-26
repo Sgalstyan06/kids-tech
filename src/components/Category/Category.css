@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1;
+  color: #39414B;
+  padding: 24px;
+}
+body li {
+  list-style: none;
+}
+
+.selected {
+  color: #FFFFFF;
+  background-color: #5FBF77;
+}/*# sourceMappingURL=Category.css.map */
